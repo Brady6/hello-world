@@ -17,6 +17,7 @@ if (userHasRole('Content User'))
 
 //test branch 1
 //test branch 2
+//test branch 3
 
 //echo 'Hello ' . $_SESSION['username'];
 //echo 'User id is ' . $_SESSION['user_id'];
